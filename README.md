@@ -130,7 +130,7 @@ Through academics I have extensive skills and knowledge in modelling, data scien
 		</td>
 		<td valign="top" width="50%">
 			<a href="https://github.com/andyboat75/parallel_computing_basics">
-				<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=parallel_computing_basics&theme=blueberry" align="left"/> 
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=parallel_computing_basics&theme=blueberry&layout=compact" align="left"/> 
 			</a>
 		</td>
 	</tr>
