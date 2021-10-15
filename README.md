@@ -120,7 +120,7 @@ Through academics I have extensive skills and knowledge in modelling, data scien
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=github-readme-stats)](https://github.com/andyboat75/github-readme-stats) -->
 
 <a href="https://github.com/andyboat75/github-readme-stats">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=github-readme-stats&theme=blueberry" align="center" style="width: 50%" /> 
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=eeds_project&theme=blueberry" align="center" style="width: 50%" /> 
 </a>
 
 
