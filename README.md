@@ -124,8 +124,8 @@ Through academics I have extensive skills and knowledge in modelling, data scien
 <table>
 	<tr>
 		<td valign="top" width="50%">
-			<a href="https://github.com/andyboat75/eeds_project">
-				<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=eeds_project&theme=blueberry" align="left"/> 
+			<a href="https://github.com/andyboat75/Energy-Efficient-Distributed-System">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=Energy-Efficient-Distributed-System&theme=blueberry" align="left"/> 
 			</a>
 		</td>
 		<td valign="top" width="50%">
