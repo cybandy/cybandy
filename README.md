@@ -124,14 +124,11 @@ Through academics I have extensive skills and knowledge in modelling, data scien
 <table>
 	<tr>
 		<td valign="top" width="50%">
-
 			<a href="https://github.com/andyboat75/eeds_project">
 				<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=eeds_project&theme=blueberry" align="left"/> 
 			</a>
 		</td>
-
 		<td valign="top" width="50%">
-
 			<a href="https://github.com/andyboat75/parallel_computing_basics">
 				<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=parallel_computing_basics&theme=blueberry" align="left"/> 
 			</a>
@@ -146,14 +143,11 @@ Through academics I have extensive skills and knowledge in modelling, data scien
 <table>
 	<tr>
 		<td valign="top" width="50%">
-
 			<a href="https://github.com/andyboat75/scientific_programming_mathematics">
 				<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=scientific_programming_mathematicst&theme=blueberry" align="left"/> 
 			</a>
 		</td>
-
 		<td valign="top" width="50%">
-
 			<a href="https://github.com/andyboat75/High-Performance-Computing">
 				<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=High-Performance-Computing&theme=blueberry" align="left"/> 
 			</a>
