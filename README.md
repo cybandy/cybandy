@@ -100,7 +100,7 @@ Through academics I have extensive skills and knowledge in modelling, data scien
 <br/>  
 
 
-## Github Stats  
+## <div align="center">Github Stats</div>  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=andyboat75&show_icons=true&count_private=true&hide_border=true&theme=vue-dark" align="left" style="width: 100%" />
@@ -108,11 +108,21 @@ Through academics I have extensive skills and knowledge in modelling, data scien
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyboat75&hide_border=true&layout=compact&theme=vue-dark" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyboat75&hide_border=true&theme=vue-dark" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
 <br/>  
+
+
+## <div align="center">Github Repos</div>  
+<!-- 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=github-readme-stats)](https://github.com/andyboat75/github-readme-stats) -->
+
+<a href="https://github.com/andyboat75/github-readme-stats">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=github-readme-stats&theme=blueberry" align="center" style="width: 50%" /> 
+</a>
+
 
   
 
@@ -127,7 +137,10 @@ Through academics I have extensive skills and knowledge in modelling, data scien
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator.</a>
+<br>
+<p> Customized by myself</p>
+</div>
 
 <!--
 **andyboat75/andyboat75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
