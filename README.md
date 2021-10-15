@@ -22,11 +22,10 @@
 
 
 
-### 
+<div style="height: 20px;"></div>
 
 
-
-.  
+ 
 # <div align="center">About Me🙂</div>  
   
 
@@ -40,13 +39,13 @@ Through academics I have extensive skills and knowledge in modelling, data scien
 <br/>  
 
 
-## Rapidfire  
+## <div align="center">Rapidfire</div>
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [NUGS-EU website](#)  
   
 
-- 🌱 I’m currently learning HPC  
+- 🌱 I’m currently learning [Python in HPC](https://www.futurelearn.com/courses/python-in-hpc/3/todo/87290)
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
@@ -64,7 +63,7 @@ Through academics I have extensive skills and knowledge in modelling, data scien
 <br/>  
 
 
-## Languages and Tools  
+## <div align="center">Languages and Tools</div>   
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
@@ -119,12 +118,25 @@ Through academics I have extensive skills and knowledge in modelling, data scien
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=github-readme-stats)](https://github.com/andyboat75/github-readme-stats) -->
 
-<a href="https://github.com/andyboat75/github-readme-stats">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=eeds_project&theme=blueberry" align="center" style="width: 50%" /> 
+
+
+
+<table><tr><td valign="top" width="50%">
+
+<a href="https://github.com/andyboat75/eeds_project">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=eeds_project&theme=blueberry" align="left"/> 
 </a>
 
 
-  
+</td><td valign="top" width="50%">
+
+<a href="https://github.com/andyboat75/parallel_computing_basics">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=parallel_computing_basics&theme=blueberry" align="left"/> 
+</a>
+
+</td></tr></table> 
+
+
 
 <br/>  
 
