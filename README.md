@@ -144,7 +144,7 @@ Through academics I have extensive skills and knowledge in modelling, data scien
 	<tr>
 		<td valign="top" width="50%">
 			<a href="https://github.com/andyboat75/scientific_programming_mathematics">
-				<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=scientific_programming_mathematicst&theme=blueberry" align="left"/> 
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=scientific_programming_mathematics&theme=blueberry" align="left"/> 
 			</a>
 		</td>
 		<td valign="top" width="50%">
