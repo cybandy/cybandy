@@ -170,7 +170,7 @@ Through academics I have extensive skills and knowledge in modelling, data scien
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator.</a>
 <br>
-<p> Customized by myself</p>
+<p> Customized by Moi</p>
 </div>
 
 <!--
