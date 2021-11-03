@@ -148,8 +148,8 @@ Through academics I have extensive skills and knowledge in modelling, data scien
 			</a>
 		</td>
 		<td valign="top" width="50%">
-			<a href="https://github.com/andyboat75/High-Performance-Computing">
-				<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=High-Performance-Computing&theme=blueberry" align="left"/> 
+			<a href="https://github.com/andyboat75/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office&theme=blueberry" align="left"/> 
 			</a>
 		</td>
 	</tr>
