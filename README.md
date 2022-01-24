@@ -44,7 +44,7 @@ Through academics I have extensive skills and knowledge in modelling, data scien
 
  
 
-- 🌱 I’m currently looking to build a career in CyberSecurity
+- 🌱 I’m currently looking to build a career in CyberSecurity. Any advice on how to go about it will very much be appreciated.
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
