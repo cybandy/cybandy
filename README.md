@@ -42,10 +42,9 @@ Through academics I have extensive skills and knowledge in modelling, data scien
 ## <div align="center">Rapidfire</div>
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [NUGS-EU website](#)  
-  
+ 
 
-- 🌱 I’m currently learning [Python in HPC](https://www.futurelearn.com/courses/python-in-hpc/3/todo/87290)
+- 🌱 I’m currently looking to build a career in CyberSecurity
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
