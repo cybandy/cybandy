@@ -2,7 +2,7 @@
 <a href="https://github.com/andyboat75" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/boateng-andrews-okyere-277a73106/" target="_blank">
+<a href="https://linkedin.com/in/andrews-okyere/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/andyboat" target="_blank">
@@ -11,7 +11,7 @@
 <a href="https://instagram.com/boatinquami" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/#" target="_blank">
+<a href="https://www.youtube.com/@cybandy" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -29,10 +29,7 @@
 # <div align="center">About Me🙂</div>  
   
 
-I'm a mathematical engineering graduate student at the University of L'Aquila, Italy. I am currently on an exchange program at Vienna University of Technology, Austria.
-
-I'm a self-learned web developer skilled in HTML5, CSS3, JS,  REACT, PYTHON, WORDPRESS, etc.
-Through academics I have extensive skills and knowledge in modelling, data science, machine learning and AI. I am currently on a journey to explore the world of Cyber security, create a portfolio to showcase my work and gather certificates to assert the above stated skills.
+I am highly motivated to pursue a career in IT, specifically cybersecurity. I'm currently looking for a growth-oriented environment where I can hone my skills and build a solid foundation with work experience.
   
   
 
