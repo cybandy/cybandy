@@ -1,5 +1,5 @@
 <div align="right">
-<a href="https://github.com/andyboat75" target="_blank">
+<a href="https://github.com/cybandy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/andrews-okyere/" target="_blank">
@@ -17,7 +17,7 @@
 </div>  
   
 
-<img src="https://raw.githubusercontent.com/andyboat75/andyboat75/main/statics/intro/White%20Minimal%20Elegant%20Business%20Photo%20Facebook%20Cover.gif" align="left" style="width: 100%" />  
+<img src="https://raw.githubusercontent.com/cybandy/cybandy/main/statics/intro/White%20Minimal%20Elegant%20Business%20Photo%20Facebook%20Cover.gif" align="left" style="width: 100%" />  
   
 
 
@@ -98,12 +98,12 @@ I am highly motivated to pursue a career in IT, specifically cybersecurity. I'm 
 ## <div align="center">Github Stats</div>  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=andyboat75&show_icons=true&count_private=true&hide_border=true&theme=vue-dark" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=cybandy&show_icons=true&count_private=true&hide_border=true&theme=vue-dark" align="left" style="width: 100%" />
 
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyboat75&hide_border=true&theme=vue-dark" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybandy&hide_border=true&theme=vue-dark" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -112,7 +112,7 @@ I am highly motivated to pursue a career in IT, specifically cybersecurity. I'm 
 
 ## <div align="center">Github Repos</div>  
 <!-- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=github-readme-stats)](https://github.com/andyboat75/github-readme-stats) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cybandy&repo=github-readme-stats)](https://github.com/cybandy/github-readme-stats) -->
 
 
 
@@ -120,13 +120,13 @@ I am highly motivated to pursue a career in IT, specifically cybersecurity. I'm 
 <table>
 	<tr>
 		<td valign="top" width="50%">
-			<a href="https://github.com/andyboat75/Energy-Efficient-Distributed-System">
-				<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=Energy-Efficient-Distributed-System&theme=blueberry" align="left"/> 
+			<a href="https://github.com/cybandy/Energy-Efficient-Distributed-System">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=cybandy&repo=Energy-Efficient-Distributed-System&theme=blueberry" align="left"/> 
 			</a>
 		</td>
 		<td valign="top" width="50%">
-			<a href="https://github.com/andyboat75/parallel_computing_basics">
-				<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=parallel_computing_basics&theme=blueberry&layout=compact" align="left"/> 
+			<a href="https://github.com/cybandy/parallel_computing_basics">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=cybandy&repo=parallel_computing_basics&theme=blueberry&layout=compact" align="left"/> 
 			</a>
 		</td>
 	</tr>
@@ -139,13 +139,13 @@ I am highly motivated to pursue a career in IT, specifically cybersecurity. I'm 
 <table>
 	<tr>
 		<td valign="top" width="50%">
-			<a href="https://github.com/andyboat75/scientific_programming_mathematics">
-				<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=scientific_programming_mathematics&theme=blueberry" align="left"/> 
+			<a href="https://github.com/cybandy/scientific_programming_mathematics">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=cybandy&repo=scientific_programming_mathematics&theme=blueberry" align="left"/> 
 			</a>
 		</td>
 		<td valign="top" width="50%">
-			<a href="https://github.com/andyboat75/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office">
-				<img src="https://github-readme-stats.vercel.app/api/pin/?username=andyboat75&repo=Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office&theme=blueberry" align="left"/> 
+			<a href="https://github.com/cybandy/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=cybandy&repo=Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office&theme=blueberry" align="left"/> 
 			</a>
 		</td>
 	</tr>
@@ -155,7 +155,7 @@ I am highly motivated to pursue a career in IT, specifically cybersecurity. I'm 
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=andyboat75&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=cybandy&&style=flat-square)  
   
 
 <br/>  
@@ -170,7 +170,7 @@ I am highly motivated to pursue a career in IT, specifically cybersecurity. I'm 
 </div>
 
 <!--
-**andyboat75/andyboat75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cybandy/cybandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
