@@ -17,7 +17,8 @@
 </div>  
   
 
-<img src="https://raw.githubusercontent.com/cybandy/cybandy/main/statics/intro/White%20Minimal%20Elegant%20Business%20Photo%20Facebook%20Cover.gif" align="left" style="width: 100%" />  
+<!--
+<img src="https://raw.githubusercontent.com/cybandy/cybandy/main/statics/intro/White%20Minimal%20Elegant%20Business%20Photo%20Facebook%20Cover.gif" align="left" style="width: 100%" />  -->
   
 
 
