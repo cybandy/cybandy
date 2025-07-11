@@ -30,7 +30,7 @@
 # <div align="center">About Me🙂</div>  
   
 
-I am highly motivated to pursue a career in IT, specifically cybersecurity. I'm currently looking for a growth-oriented environment where I can hone my skills and build a solid foundation with work experience.
+I am a developer, security enthusiast, and educator with a strong foundation in mathematics, cybersecurity and systems design. With experience as a CTO, project lead, and consultant, I have contributed to projects spanning real-time web applications, educational platforms, and non-profit initiatives.
   
   
 
@@ -42,7 +42,7 @@ I am highly motivated to pursue a career in IT, specifically cybersecurity. I'm 
 
  
 
-- 🌱 I’m currently looking to build a career in CyberSecurity. Any advice on how to go about it will very much be appreciated.
+- 🌱 I’m currently looking for a new environment whiles continually applying myself to education and training.
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
